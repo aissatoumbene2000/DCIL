@@ -40,8 +40,6 @@ st.multiselect ("Genre", ["G" , "F" ,"i" ,"h"])
 
 st.text_area("commentaire")
 
-width st.sidebar:
-      st.
 
 
 
